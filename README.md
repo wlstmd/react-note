@@ -1,0 +1,12 @@
+## `시험 범위`
+- [가상돔](./가상돔.md)
+- [JSX 구문](./JSX.md)
+- [컴포넌트](./컴포넌트.md)
+- [key, children](./key%20&%20children.md)
+- [이벤트](./이벤트.md)
+- [state](./state.md)
+- [Ref](./Ref.md)
+- [리액트 앱 설계](./React%20App%20설계.md)
+- [리액트 라이프 사이클](./React%20Life%20Cycle.md)
+- [useEffect](./useEffect.md)
+- [useNavigate](./useNavigate.md)
